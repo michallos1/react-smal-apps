@@ -1,0 +1,42 @@
+
+.nav-bar {
+  background: #1E1E24;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.nav-bar ul {
+  list-style:none;
+}
+
+
+.nav-bar ul li{
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-bar ul li a:hover {
+  /* color: black; */
+  cursor: pointer;
+}
+
+.nav-bar ul li:hover {
+  cursor: pointer;
+  background-color: #E54B4B;
+  color: black;
+}
+
+.nav-bar ul li a{
+  text-decoration: none;
+  color: white;
+}
+/* https://coolors.co/e54b4b-f27a69-ffa987-f7ebe8-444140-1e1e24 */
+.bg-color {
+  background-color: #eeeeee;
+  min-height: 80vh;
+}

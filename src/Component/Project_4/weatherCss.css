@@ -1,0 +1,46 @@
+
+.weather-app {
+    background-color: cornflowerblue;
+    padding: 1rem;
+    border: 1px black solid;
+    position: absolute;
+    width: 15rem;
+    height: 20rem;
+    margin: 5rem 5rem;
+    
+
+}
+
+.weather-app-name {
+    background-color: rgb(255, 195, 122);
+    height: 3rem;
+    text-align: center;
+
+}
+
+.search-bar > input{
+    height: 2rem;
+    width: 97%;
+}
+
+.weather-info {
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    align-content: center;
+}
+
+.city-name {
+    margin: 0.2rem;
+    height: 4rem;
+}
+
+.temperature {
+    margin: 0.2rem;
+    height: 4rem;
+}
+
+.hpa {
+    margin: 0.2rem;
+    height: 4rem;
+}

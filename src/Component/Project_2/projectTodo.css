@@ -1,0 +1,15 @@
+.task {
+  margin: 15px;
+  background-color: aliceblue;
+  width: 20rem;
+  word-wrap: break-word;
+}
+
+.button-1 {
+  float: right;
+}
+
+.input {
+  margin: 10px;
+  width: 15rem;
+}
