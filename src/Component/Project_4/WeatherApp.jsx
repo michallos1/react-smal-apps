@@ -3,7 +3,7 @@ import "./weatherCss.css"
 import Info from "./Info";
 
 const api = {
-    key: "3416857f3eabcf29e6f683aec66b5eb7",
+    
     url: "https://api.openweathermap.org/data/2.5/"
 }
 export default function WeatherApp () {
